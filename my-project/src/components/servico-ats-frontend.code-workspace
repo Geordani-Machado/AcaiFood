@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Exercer/servico-ats-frontend"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "Login.sln"
+	}
+}
